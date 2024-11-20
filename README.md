@@ -88,15 +88,4 @@ The EDA notebook includes:
 4. Push to the branch (`git push origin feature/analysis`)
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-- Data provided by [source]
-- Inspired by [reference if any]
-
-## Contact
-[Your Name/Team Name] - [contact information]
-
----
-**Note**: This is a data analysis project for educational purposes. All data used is publicly available.
