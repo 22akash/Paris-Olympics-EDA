@@ -40,10 +40,8 @@ pip install -r requirements.txt
 
 ```
 Project-1-Paris-Olympics-EDA/
-├── data/
-│   ├── [data files]
-├── notebooks/
-│   ├── Paris_Olympics_EDA.ipynb
+├── data[files]
+├── Paris_Olympics_EDA.ipynb
 ├── README.md
 ├── requirements.txt
 ```
